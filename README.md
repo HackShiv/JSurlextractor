@@ -1,5 +1,5 @@
 # JSurlextractor
-A simple bash script to extract urls and endpoints within js files
+A simple bash script to extract urls from js endpoints.
 
 # Usage
 You can add more grepping and filters like grep -E "admin$|api$" at the bottom.
